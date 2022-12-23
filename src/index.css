@@ -1,0 +1,29 @@
+/* Vatiables */
+:root{
+    --color-red: #FE1936;
+    --color-btn: #d93f3f;
+}
+
+/* reset */
+*{
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    margin: 0;
+}
+
+img{
+    width: 100%;
+    display: block;
+}
+
+a{
+    font-family: inherit;
+    text-decoration: none;
+}
+
+input{
+    outline: none;
+}
